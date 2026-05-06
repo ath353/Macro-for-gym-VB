@@ -1,6 +1,6 @@
 # 💪 MacroVN
 
-Tool tính TDEE & Macro miễn phí dành cho gymer Việt Nam — nhập thông tin cơ thể, chọn mục tiêu, nhận kết quả ngay.  
+Tool tính TDEE & Macro dành cho gymer Việt Nam — nhập thông tin cơ thể, chọn mục tiêu, nhận kết quả ngay.  
 Không cần đăng ký. Không cần cài đặt.
 
 ## ✨ Tính năng
@@ -12,18 +12,7 @@ Không cần đăng ký. Không cần cài đặt.
 - 💡 Gợi ý thực phẩm quy đổi dễ hình dung
 - 🌙 Dark mode
 - 📱 Responsive, dùng được trên điện thoại
-
-## 🛠️ Tech Stack
-
-| Layer    | Công nghệ       |
-|----------|-----------------|
-| Frontend | React 18 + Vite |
-| Styling  | TailwindCSS     |
-| State    | Zustand         |
-| Deploy   | Vercel          |
-
-> Toàn bộ tính toán chạy client-side — không có backend, không lưu dữ liệu người dùng.
-
+- 
 ## 🔗 Demo: [macrovn.vercel.app](https://macrovn.vercel.app)
 
 ## 👨‍💻 Tác giả
