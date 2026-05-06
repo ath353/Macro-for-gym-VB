@@ -1,0 +1,29 @@
+{
+  "name": "macro-vn",
+  "version": "1.0.0",
+  "description": "Tool tính TDEE & Macro miễn phí cho gymer Việt Nam",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "type": "module",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "zustand": "^5.0.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.4",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.17",
+    "vite": "^4.4.11",
+    "vitest": "^4.1.4"
+  }
+}
